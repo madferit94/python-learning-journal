@@ -6,7 +6,7 @@
 
 ## 지금 시작할 곳
 
-- [Day 001 — 변수와 자료형](lessons/ch02/lesson_01_variables_types.py): 원래 2026-11-18 예정 → **2026-11-17 분량 마무리**, 독립 재작성 미확인.
+- [Day 001 — 변수와 자료형](lessons/ch02/lesson_01_variables_types.py): 당일 분량 마무리, 독립 재작성 미확인.
 - [Day 001 실제 학습 기록](journal/2026-11-17-day001-variables-types.ko.md)
 - [학습 준비와 현재 상태](journal/2026-11-17-preparation.ko.md)
 - [수업과 일일 마무리 절차](docs/learning-workflow.ko.md)
@@ -37,3 +37,7 @@ ChatGPT/Codex가 설명, 예제 안내, 오류 피드백과 파일 정리를 도
 - [저자 공식 본문](https://wesmckinney.com/book/)
 - [저자 GitHub](https://github.com/wesm/pydata-book/tree/3rd-edition)
 - [예제 코드의 출처·라이선스](THIRD_PARTY_NOTICES.md)
+
+## 한영 버전
+
+수업 코드 설명·학습 기록·진행 절차·TIL 양식을 한국어와 영어로 제공합니다. 각 파일 상단에서 언어를 바꿀 수 있습니다. [한국어 코드](lessons/ch02/lesson_01_variables_types.py) · [English code](lessons/ch02/lesson_01_variables_types.en.py)

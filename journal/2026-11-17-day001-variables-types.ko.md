@@ -1,7 +1,9 @@
 # Day 001 — 변수·값·자료형과 함수 호출
 
+[English](2026-11-17-day001-variables-types.en.md)
+
 > 📘 **학습 요약** · 상태: 마무리  
-> 예정일: 2026-11-18 / 실제 학습일: 2026-11-17 / 책 범위: 3판 2장 변수·자료형 / 독립 재작성: 미확인
+> 책 범위: 3판 2장 변수·자료형 / 독립 재작성: 미확인
 
 ## 🎯 01. 목표와 범위
 
@@ -68,9 +70,3 @@ value
 - [ ] item에 숫자 12를 저장하고 자료형 출력
 - [ ] 문자열 "12"를 같은 변수에 대입하고 자료형 출력
 - [ ] print(item)과 print("item") 차이를 먼저 설명하고 실행
-
----
-
-## 🔗 08. 자료
-
-[수업 코드](../lessons/ch02/lesson_01_variables_types.py) · [Notion TIL](https://app.notion.com/p/41a058a09a5b81159d01efb7c653cbdc) · [저자 원본](https://github.com/wesm/pydata-book/blob/3rd-edition/ch02.ipynb)

@@ -6,16 +6,16 @@ A beginner's Python study journal using Wes McKinney's *Python for Data Analysis
 
 ## Start here
 
-- [Day 001: variables and types](lessons/ch02/lesson_01_variables_types.py) — session finished on **2026-11-17**; independent recall remains unverified.
-- [Day 001 learning record](journal/2026-11-17-day001-variables-types.ko.md).
-- [Preparation and learning baseline](journal/2026-11-17-preparation.ko.md).
-- [Daily workflow](docs/learning-workflow.ko.md).
-- [Daily note template](templates/daily-til.ko.md).
+- [Day 001: variables and types](lessons/ch02/lesson_01_variables_types.en.py) — session finished; independent recall remains unverified.
+- [Day 001 learning record](journal/2026-11-17-day001-variables-types.en.md).
+- [Preparation and learning baseline](journal/2026-11-17-preparation.en.md).
+- [Daily workflow](docs/learning-workflow.en.md).
+- [Daily note template](templates/daily-til.en.md).
 
 The paper book's edition is not yet confirmed. Companion examples currently follow the third edition. The author’s original notebooks are not mirrored here. This first exercise uses only the Python standard library.
 
 ```sh
-python3 lessons/ch02/lesson_01_variables_types.py
+python3 lessons/ch02/lesson_01_variables_types.en.py
 ```
 
 ## Record integrity
@@ -29,3 +29,7 @@ ChatGPT/Codex assisted with explanations, initial lesson scaffolding and organiz
 - [Author's official text](https://wesmckinney.com/book/)
 - [Official third-edition examples](https://github.com/wesm/pydata-book/tree/3rd-edition)
 - [Attribution and license for adapted code](THIRD_PARTY_NOTICES.md)
+
+## Language editions
+
+Lessons, journals, workflow notes and templates are available in Korean and English. Each file links to its counterpart. [Korean lesson](lessons/ch02/lesson_01_variables_types.py) · [English lesson](lessons/ch02/lesson_01_variables_types.en.py)

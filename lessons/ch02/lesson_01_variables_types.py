@@ -1,6 +1,5 @@
+# English: https://github.com/madferit94/python-learning-journal/blob/main/lessons/ch02/lesson_01_variables_types.en.py
 # 책 기반 Python 학습 01 — 변수·값·자료형과 함수 호출
-# 원래 예정일: 2026-11-18 / 실제 학습일: 2026-11-17
-# 파일 이름은 기존 링크와 학습 기록을 유지하기 위해 바꾸지 않았습니다.
 # 상태: 오늘 분량 마무리 / 다음 학습에서 독립 재작성은 미확인.
 # 교재: 웨스 맥키니, 파이썬 라이브러리를 활용한 데이터 분석
 # 기준: 3판 2장 Python 기초 중 변수와 자료형. 보유한 종이책 판본은 아직 미확인.
