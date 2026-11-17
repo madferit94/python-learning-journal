@@ -39,43 +39,43 @@
 # [A] 변수·자료형 복습 — 사용자 실행을 확인한 코드를 주석으로 모았습니다.
 # 사용자는 처음 값과 글자를 출력하고, 코치 안내 후 type() 출력을 추가했습니다.
 # 아래는 대화에서 따로 실행한 두 단계를 복습용으로 이어 놓은 구성입니다.
-# item = 12
-# print(item)
-# print("item")
-# print(type(item))
+# item = 12  # item에 정수 12를 저장합니다.
+# print(item)  # item에 저장된 값을 출력합니다.
+# print("item")  # 변수를 찾지 않고 글자 item을 출력합니다.
+# print(type(item))  # item에 저장된 값의 자료형을 출력합니다.
 #
-# item = "12"
-# print(type(item))
+# item = "12"  # 같은 item에 문자열 "12"를 다시 저장합니다.
+# print(type(item))  # item에 저장된 값의 자료형을 출력합니다.
 # 사용자 설명: '""로 시작하면 문자열이라서요.'
 # 코치 보완: 이번 "12"는 따옴표로 감싼 문자열, 12는 정수입니다.
 
 # [B] 정수 덧셈과 문자열 연결 — 사용자 작성·실행 확인.
-# first = 12
-# second = 3
-# total = first + second
-# print(total)
+# first = 12  # first에 정수 12를 저장합니다.
+# second = 3  # second에 정수 3을 저장합니다.
+# total = first + second  # 정수 12와 3을 더해 total에 저장합니다.
+# print(total)  # 덧셈 결과 15를 출력합니다.
 #
-# first_text = "12"
-# second_text = "3"
-# joined = first_text + second_text
-# print(joined)
+# first_text = "12"  # 숫자가 아닌 문자열 "12"를 저장합니다.
+# second_text = "3"  # 숫자가 아닌 문자열 "3"을 저장합니다.
+# joined = first_text + second_text  # 두 문자열을 이어 붙인 "123"을 저장합니다.
+# print(joined)  # 연결 결과 123을 출력합니다.
 # 사용자 사전 예상: 문자열을 더하므로 123이 나올 것이라고 설명했습니다.
 # total의 사전 예상은 빈칸이었으며, 모든 출력을 미리 예상했다고 기록하지 않습니다.
 
 # [C] 형 변환 후 계산 — 사용자 최종 코드. 이 부분만 실행됩니다.
-first_text = "12"
-second_text = "3"
-first_number = int(first_text)
-second_number = int(second_text)
+first_text = "12"  # 숫자가 아닌 문자열 "12"를 저장합니다.
+second_text = "3"  # 숫자가 아닌 문자열 "3"을 저장합니다.
+first_number = int(first_text)  # 문자열 "12"를 정수 12로 바꿔 새 변수에 저장합니다.
+second_number = int(second_text)  # 문자열 "3"을 정수 3으로 바꿔 새 변수에 저장합니다.
 
-numeric_total = first_number + second_number
+numeric_total = first_number + second_number  # 변환한 정수끼리 더해 15를 저장합니다.
 
-print(numeric_total)
+print(numeric_total)  # numeric_total에 저장된 계산 결과를 출력합니다.
 
-print(type(first_text))
-print(type(first_number))
-print(type(second_text))
-print(type(second_number))
+print(type(first_text))  # 원래 값의 자료형 str을 확인합니다.
+print(type(first_number))  # 변환한 값의 자료형 int를 확인합니다.
+print(type(second_text))  # 두 번째 원래 값도 str인지 확인합니다.
+print(type(second_number))  # 두 번째 변환 결과도 int인지 확인합니다.
 
 
 # ============================================================
@@ -99,24 +99,24 @@ print(type(second_number))
 # 05. 최초 시도 → 이유 → 수정 → 확인
 # ============================================================
 # [첫 시도] 변환은 했지만 계산에는 원래 문자열 변수를 사용했습니다.
-# first_text = "12"
-# second_text = "3"
-# first_number = int(first_text)
-# second_number = int(second_text)
-# numeric_total = first_text + second_text
-# print(numeric_total)
+# first_text = "12"  # 숫자가 아닌 문자열 "12"를 저장합니다.
+# second_text = "3"  # 숫자가 아닌 문자열 "3"을 저장합니다.
+# first_number = int(first_text)  # 문자열 "12"를 정수 12로 바꿔 새 변수에 저장합니다.
+# second_number = int(second_text)  # 문자열 "3"을 정수 3으로 바꿔 새 변수에 저장합니다.
+# numeric_total = first_text + second_text  # 원래 문자열을 사용하므로 덧셈 대신 "123"으로 연결됩니다.
+# print(numeric_total)  # numeric_total에 저장된 계산 결과를 출력합니다.
 # 실제 출력: 123. 예외가 난 것이 아니라 의도와 다른 계산 대상을 사용했습니다.
 #
 # [이유] int() 결과는 first_number와 second_number에 저장되어 있습니다.
 # first_text와 second_text는 계속 문자열이므로 +가 연결로 작동했습니다.
 # [힌트] '계산 줄의 두 변수를 정수가 저장된 변수 이름으로 바꾸세요.'
 # [사용자 수정]
-# numeric_total = first_number + second_number
+# numeric_total = first_number + second_number  # 변환한 정수끼리 더해 15를 저장합니다.
 # 수정 후 실제 출력: 15.
 #
 # [자료형 비교의 중간 시도]
-# print(type(first_number))
-# print(type(second_number))
+# print(type(first_number))  # 변환한 값의 자료형 int를 확인합니다.
+# print(type(second_number))  # 두 번째 변환 결과도 int인지 확인합니다.
 # 출력은 int / int로 맞았지만 원래 문자열과 변환 결과를 비교하지는 못했습니다.
 # 코치가 first_text와 first_number를 비교하는 두 줄을 제시했습니다.
 # 사용자는 최종적으로 second_text와 second_number 비교도 추가했습니다.
