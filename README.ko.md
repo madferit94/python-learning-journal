@@ -6,6 +6,9 @@
 
 ## 지금 시작할 곳
 
+- [수업 02 — 문자열·정수와 형 변환](lessons/ch02/lesson_02_strings_integers_conversion.py): 분량 마무리, 힌트 후 수정.
+- [수업 02 학습 기록](journal/lesson-02-strings-integers-conversion.ko.md): 최초 시도·수정·다음 복습.
+
 - [Day 001 — 변수와 자료형](lessons/ch02/lesson_01_variables_types.py): 당일 분량 마무리, 독립 재작성 미확인.
 - [Day 001 실제 학습 기록](journal/2026-11-17-day001-variables-types.ko.md)
 - [학습 준비와 현재 상태](journal/2026-11-17-preparation.ko.md)

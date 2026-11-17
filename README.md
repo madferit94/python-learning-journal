@@ -6,6 +6,9 @@ A beginner's Python study journal using Wes McKinney's *Python for Data Analysis
 
 ## Start here
 
+- [Lesson 02 — strings, integers and conversion](lessons/ch02/lesson_02_strings_integers_conversion.en.py) — session finished with guidance.
+- [Lesson 02 learning record](journal/lesson-02-strings-integers-conversion.en.md) — initial attempt, correction and recall.
+
 - [Day 001: variables and types](lessons/ch02/lesson_01_variables_types.en.py) — session finished; independent recall remains unverified.
 - [Day 001 learning record](journal/2026-11-17-day001-variables-types.en.md).
 - [Preparation and learning baseline](journal/2026-11-17-preparation.en.md).
