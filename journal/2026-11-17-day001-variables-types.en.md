@@ -2,7 +2,7 @@
 
 [한국어](2026-11-17-day001-variables-types.ko.md)
 
-> 📘 **Session summary** · Status: session finished  
+> 📘 **Session summary** · Status: session finished
 > Scope: third edition, Chapter 2 · Independent recall: unverified
 
 ## 🎯 01. Goal and scope
