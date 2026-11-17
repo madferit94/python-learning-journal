@@ -6,7 +6,8 @@
 
 ## 지금 시작할 곳
 
-- [Day 001 — 변수와 자료형](lessons/ch02/lesson_01_variables_types.py): **2026-11-18 예정**, 아직 사용자 수행 미확인.
+- [Day 001 — 변수와 자료형](lessons/ch02/lesson_01_variables_types.py): 원래 2026-11-18 예정 → **2026-11-17 분량 마무리**, 독립 재작성 미확인.
+- [Day 001 실제 학습 기록](journal/2026-11-17-day001-variables-types.ko.md)
 - [학습 준비와 현재 상태](journal/2026-11-17-preparation.ko.md)
 - [수업과 일일 마무리 절차](docs/learning-workflow.ko.md)
 - [당일 TIL 양식](templates/daily-til.ko.md)

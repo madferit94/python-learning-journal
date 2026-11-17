@@ -6,7 +6,8 @@ A beginner's Python study journal using Wes McKinney's *Python for Data Analysis
 
 ## Start here
 
-- [Day 001: variables and types](lessons/ch02/lesson_01_variables_types.py) — planned for **2026-11-18**, not completed.
+- [Day 001: variables and types](lessons/ch02/lesson_01_variables_types.py) — session finished on **2026-11-17**; independent recall remains unverified.
+- [Day 001 learning record](journal/2026-11-17-day001-variables-types.ko.md).
 - [Preparation and learning baseline](journal/2026-11-17-preparation.ko.md).
 - [Daily workflow](docs/learning-workflow.ko.md).
 - [Daily note template](templates/daily-til.ko.md).
