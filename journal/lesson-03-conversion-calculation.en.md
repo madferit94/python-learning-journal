@@ -63,7 +63,7 @@ The learner initially thought the original variable changed. After feedback clar
 
 `int(price_text)` returns integer `25`, which the assignment stores in `price` on the left of `=`. The original `price_text` still holds the string `"25"` because it was never reassigned.
 
-The learner wrote the conversion code independently. The explanation and completion of the variation received guidance.
+The learner wrote the conversion code. The explanation and completion of the variation received guidance.
 
 ---
 

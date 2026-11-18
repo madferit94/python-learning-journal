@@ -8,7 +8,7 @@ This is a preparation-stage record, not evidence that the lesson was completed a
 
 ## What was checked
 
-In conversation, the learner described `==` as equality comparison, `df` as holding the table loaded from CSV, and `head()` as showing the first five entries by default. The coach clarified assignment with `=`, calling `read_csv`, a whole table versus a single column, and variable names versus actual column names. This baseline did not verify learner execution or independent rewriting.
+In conversation, the learner described `==` as equality comparison, `df` as holding the table loaded from CSV, and `head()` as showing the first five entries by default. The coach clarified assignment with `=`, calling `read_csv`, a whole table versus a single column, and variable names versus actual column names. This baseline did not verify learner execution.
 
 ## Decision
 

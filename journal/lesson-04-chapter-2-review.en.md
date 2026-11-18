@@ -78,7 +78,7 @@ The first exercise initially printed the converted values. The learner added the
 
 The price stays at 35. The loop takes 2, 5, and 8 from quantities in order and assigns each value to quantity. Calculating and printing inside the loop gives one line per total: 70, 175, and 280.
 
-The learner finished the exercises with hints. A later independent rewrite has yet to be checked.
+The learner finished the exercises with hints.
 
 ---
 

@@ -20,7 +20,7 @@ Explain new syntax using a short example. Leave application exercises blank for 
 6. Publish public-safe code explanations and journals in Korean and English. Exclude private data and absolute local paths.
 7. Share links and the remaining recall task; the learner need not copy a long retrospective manually.
 
-Keep textbook notebooks and raw datasets out of this journal. Updates happen explicitly during session closing; there is no automatic or unattended synchronization. Finishing a session is separate from independent recall.
+Keep textbook notebooks and raw datasets out of this journal. Updates happen explicitly during session closing; there is no automatic or unattended synchronization.
 
 ## Readability
 

@@ -2,7 +2,7 @@
 
 [한국어](README.ko.md) · [Notion learning home](https://app.notion.com/p/41a058a09a5b81bc9a98d82ac7e0705c)
 
-A beginner's Python study journal using Wes McKinney's *Python for Data Analysis* as the main textbook. It documents explanations, attempts, errors, feedback and recall practice, rather than presenting guided exercises as independent analytics projects.
+A beginner's Python study journal using Wes McKinney's *Python for Data Analysis* as the main textbook. It documents explanations, attempts, errors, feedback and recall practice.
 
 ## Start here
 
@@ -11,7 +11,7 @@ A beginner's Python study journal using Wes McKinney's *Python for Data Analysis
 - [Lesson 02 — strings, integers and conversion](lessons/ch02/lesson_02_strings_integers_conversion.en.py) — session finished with guidance.
 - [Lesson 02 learning record](journal/lesson-02-strings-integers-conversion.en.md) — initial attempt, correction and recall.
 
-- [Day 001: variables and types](lessons/ch02/lesson_01_variables_types.en.py) — session finished; independent recall remains unverified.
+- [Day 001: variables and types](lessons/ch02/lesson_01_variables_types.en.py) — session finished.
 - [Day 001 learning record](journal/2026-11-17-day001-variables-types.en.md).
 - [Preparation and learning baseline](journal/2026-11-17-preparation.en.md).
 - [Daily workflow](docs/learning-workflow.en.md).
@@ -25,7 +25,7 @@ python3 lessons/ch02/lesson_01_variables_types.en.py
 
 ## Record integrity
 
-Each record separates learner-written code, textbook examples, AI hints, learner-reported output and agent verification. A prepared lesson is not a completed session; a finished session is not proof of independent recall. Dates reflect actual study or explicitly marked plans.
+Each record separates learner-written code, textbook examples, AI hints, learner-reported output and agent verification. A prepared lesson is not a completed session.
 
 ChatGPT/Codex assisted with explanations, initial lesson scaffolding and organization. No raw personal or sports datasets are included. Notion and GitHub are updated explicitly at the end of a study session; there is no automatic synchronization or background schedule.
 

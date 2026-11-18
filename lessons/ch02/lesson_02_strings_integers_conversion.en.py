@@ -1,6 +1,6 @@
 # 한국어: https://github.com/madferit94/python-learning-journal/blob/main/lessons/ch02/lesson_02_strings_integers_conversion.py
 # Lesson 02 — Strings, integers and type conversion
-# Status: session finished with guidance; delayed independent recall is unverified.
+# Status: session finished with guidance.
 # Book connection: Python for Data Analysis, third edition, Chapter 2 Python basics.
 # Paper edition, pages read and actual study duration are unverified.
 # Coach-created exercises based on the concepts, not verbatim textbook exercises.
@@ -112,7 +112,7 @@ print(type(second_number))  # Check that the second converted value is int.
 # Assistance: type() reminder, calculation-variable hint, original/converted comparison code.
 # Learner wrote the comparison exercises, corrected the calculation after the hint,
 # and extended the type comparison to the second pair.
-# Limits: not every prediction was written first; delayed independent recall is unverified.
+# Limits: not every prediction was written first.
 
 # ============================================================
 # 07. Next recall — unsolved; leave the answer and result blank

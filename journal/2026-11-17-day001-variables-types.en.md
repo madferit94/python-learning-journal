@@ -3,7 +3,7 @@
 [한국어](2026-11-17-day001-variables-types.ko.md)
 
 > 📘 **Session summary** · Status: session finished
-> Scope: third edition, Chapter 2 · Independent recall: unverified
+> Scope: third edition, Chapter 2
 
 ## 🎯 01. Goal and scope
 
@@ -61,7 +61,6 @@ An early output showed only `7`, which cannot distinguish an integer from a stri
 - Checked string and integer types through code.
 - Explained variable output versus literal text output.
 - Used textbook examples, AI explanations and a `print(type(value))` hint.
-- Independent rewriting in a later session remains unverified.
 
 ---
 

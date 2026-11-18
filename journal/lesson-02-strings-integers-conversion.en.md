@@ -3,7 +3,7 @@
 [한국어](lesson-02-strings-integers-conversion.ko.md) · [코드 / Code](../lessons/ch02/lesson_02_strings_integers_conversion.en.py)
 [Notion](https://app.notion.com/p/41b058a09a5b8137895eec92e5ce5a87)
 
-> 📘 Session finished · Independent rewriting: needs hints · Delayed recall unverified
+> 📘 Session finished
 
 ## 🎯 01. Goal and scope
 
@@ -127,9 +127,7 @@ The learner explained that the first calculation used strings and the second int
 - Checked: joining gives `123`; integer addition gives `15`; originals are `str` and converted values are `int`.
 - Learner work: comparison code, correction after the variable-selection hint, extension to the second type pair.
 - Assistance: type-output reminder, operand-selection hint, original/converted type-comparison code.
-- Unverified: complete advance predictions, a separate explanation of assignment versus conversion, and later independent rewriting.
-
-**Status: session finished; independent rewriting currently needs hints.** A delayed independent retry has not yet been checked.
+- Unverified: complete advance predictions, a separate explanation of assignment versus conversion.
 
 ---
 

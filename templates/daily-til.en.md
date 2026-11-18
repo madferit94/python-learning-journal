@@ -3,7 +3,7 @@
 [한국어](daily-til.ko.md)
 
 > 📘 **Summary** · Status: planned / in progress / review needed / session finished
-> Book scope: / Independent recall: unverified / needs hints / verified
+> Book scope:
 
 ## 🎯 01. Goal and study amount
 

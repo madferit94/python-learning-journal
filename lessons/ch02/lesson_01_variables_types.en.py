@@ -1,6 +1,6 @@
 # 한국어: https://github.com/madferit94/python-learning-journal/blob/main/lessons/ch02/lesson_01_variables_types.py
 # Book-based Python lesson 01 — Variables, values, types and function calls
-# Session finished; independent recall in a later session remains unverified.
+# Session finished.
 # Textbook: Wes McKinney, Python for Data Analysis, third edition, Chapter 2.
 # The learner's paper edition is unconfirmed.
 # Source: https://github.com/wesm/pydata-book/blob/3rd-edition/ch02.ipynb
@@ -69,12 +69,11 @@ print("value")
 # were included in one run. The coach asked for both assignments and outputs together.
 # The final code/output confirmed string -> integer in one file.
 # No exception message was shared; do not invent TypeError or NameError history.
-# This was completed with examples and hints, not verified independent performance.
+# This was completed with examples and hints.
 
 # 7. Checked understanding and limits
 # Checked: final value foo, string/integer types, variable versus literal output.
-# Unverified: exact book pages read, actual study time, later independent rewriting.
-# Do not claim every separate understanding question was answered independently.
+# Unverified: exact book pages read, actual study time.
 # Assistance: author example, AI explanation, type() hint and a prepared exercise file.
 # The learner wrote the final application code and shared output.
 # AI organized this review file and separately reran its active code.
@@ -89,4 +88,4 @@ print("value")
 # Actual output:
 # Examples/hints used:
 # Remaining questions:
-# Decide the next topic after checking recall. Session completion is not mastery.
+# Decide the next topic after checking recall.
