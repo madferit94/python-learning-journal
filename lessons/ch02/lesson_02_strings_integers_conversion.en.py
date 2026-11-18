@@ -129,3 +129,5 @@ print(type(second_number))  # Check that the second converted value is int.
 # Actual output:
 # Explanation:
 # Assistance used:
+
+price_text = 25  # Initial assignment from the follow-up scratch work. This line produces no output.

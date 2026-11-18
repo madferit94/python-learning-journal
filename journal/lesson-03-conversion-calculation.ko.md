@@ -67,6 +67,26 @@ print(amount)  # 총금액을 출력합니다.
 
 ---
 
+### 로컬 파일에 들어 있던 후속 실습
+
+가격 "35"와 수량 "6"으로 작성한 아래 코드는 수업 04의 1회차입니다. 확인한 출력은 35, 6, 210입니다.
+
+```python
+price_text = "35"
+quantity_text = "6"
+
+price_number = int(price_text)
+quantity_number = int(quantity_text)
+
+print(price_number)
+print(quantity_number)
+
+amount = price_number * quantity_number
+print(amount)
+```
+
+---
+
 ## 🔁 07. 다음 복습
 
 - [ ] 새 가격과 수량으로 총금액을 먼저 예상한 뒤 변환·곱셈·출력을 한 번에 작성하기

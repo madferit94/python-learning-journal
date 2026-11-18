@@ -83,6 +83,24 @@ print(sum(amounts))  # 리스트에 담긴 금액을 모두 더해 출력합니�
 
 ---
 
+### 로컬의 리스트·합계 출력 방식
+
+1번의 개별 금액 출력을 주석으로 꺼 두면 리스트와 합계만 출력됩니다. 아래 실행 범위에서 [200, 320]과 520을 확인했습니다.
+
+```python
+price = 40
+quantities = [3, 5, 0, 8, 4]
+amounts = []
+for quantity in quantities:
+    if quantity >= 5:
+        amount = price * quantity
+        amounts.append(amount)
+print(amounts)
+print(sum(amounts))
+```
+
+---
+
 ## 07. 다음 복습
 
 최소 수량을 `6`으로 바꿔 리스트와 합계를 먼저 예상하고 실행해 봅니다.

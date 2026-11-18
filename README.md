@@ -40,3 +40,10 @@ ChatGPT/Codex assisted with explanations, initial lesson scaffolding and organiz
 ## Language editions
 
 Lessons, journals, workflow notes and templates are available in Korean and English. Each file links to its counterpart. [Korean lesson](lessons/ch02/lesson_01_variables_types.py) · [English lesson](lessons/ch02/lesson_01_variables_types.en.py)
+
+## Earlier practice
+
+- [Earlier practice — Python fundamentals and rates](journal/practice-python-fundamentals.en.md)
+- [Earlier practice — Pass completion rates and grades](journal/practice-pass-accuracy.en.md)
+- [Earlier practice — Loops and CSV column inspection](journal/practice-csv-column-inspection.en.md)
+- [Earlier practice — pandas column selection and goal filtering](journal/practice-pandas-row-filtering.en.md)

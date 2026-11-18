@@ -131,6 +131,16 @@ numeric_total = first_number + second_number
 
 ---
 
+### 로컬 추가 코드
+
+```python
+price_text = 25
+```
+
+후속 연습을 시작하며 저장한 한 줄입니다. 정수 대입까지만 있으며 이 줄에서 직접 출력되는 값은 없습니다. 이어지는 가격·수량 실습은 수업 03에 있습니다.
+
+---
+
 ## 🔁 07. 다음 복습
 
 - [ ] `price_text`에 `"25"`, `quantity_text`에 `"4"` 저장

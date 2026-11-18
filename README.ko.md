@@ -47,3 +47,10 @@ ChatGPT/Codex가 설명, 예제 안내, 오류 피드백과 파일 정리를 도
 ## 한영 버전
 
 수업 코드 설명·학습 기록·진행 절차·TIL 양식을 한국어와 영어로 제공합니다. 각 파일 상단에서 언어를 바꿀 수 있습니다. [한국어 코드](lessons/ch02/lesson_01_variables_types.py) · [English code](lessons/ch02/lesson_01_variables_types.en.py)
+
+## 이전 실습
+
+- [이전 실습 — Python 기초와 비율 계산](journal/practice-python-fundamentals.ko.md)
+- [이전 실습 — 패스 성공률과 등급](journal/practice-pass-accuracy.ko.md)
+- [이전 실습 — 반복문과 CSV 컬럼 확인](journal/practice-csv-column-inspection.ko.md)
+- [이전 실습 — pandas 열 선택과 득점 필터](journal/practice-pandas-row-filtering.ko.md)

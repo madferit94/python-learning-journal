@@ -83,6 +83,24 @@ Append inside the condition. Print the completed list and calculate its sum afte
 
 ---
 
+### List-and-total run saved locally
+
+Commenting out the separate per-order print exercise leaves the list and sum. Running the version below printed [200, 320] and 520.
+
+```python
+price = 40
+quantities = [3, 5, 0, 8, 4]
+amounts = []
+for quantity in quantities:
+    if quantity >= 5:
+        amount = price * quantity
+        amounts.append(amount)
+print(amounts)
+print(sum(amounts))
+```
+
+---
+
 ## 07. Next practice
 
 Change the minimum to `6` and predict the list and total before running the script.

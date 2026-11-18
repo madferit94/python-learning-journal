@@ -131,6 +131,16 @@ The learner explained that the first calculation used strings and the second int
 
 ---
 
+### Local addition
+
+```python
+price_text = 25
+```
+
+This is an initial assignment from the follow-up scratch work. It stores an integer and produces no output. Lesson 03 contains the price and quantity exercise.
+
+---
+
 ## 🔁 07. Next recall
 
 - [ ] Assign `"25"` to `price_text` and `"4"` to `quantity_text`.
