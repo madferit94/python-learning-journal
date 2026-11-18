@@ -6,6 +6,7 @@ A beginner's Python study journal using Wes McKinney's *Python for Data Analysis
 
 ## Start here
 
+- [Lesson 05 learning record](journal/lesson-05-list-basics.en.md)
 - [Lesson 04 learning record](journal/lesson-04-chapter-2-review.en.md)
 - [Lesson 03 learning record](journal/lesson-03-conversion-calculation.en.md)
 - [Lesson 02 — strings, integers and conversion](lessons/ch02/lesson_02_strings_integers_conversion.en.py) — session finished with guidance.
