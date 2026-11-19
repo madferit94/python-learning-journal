@@ -6,6 +6,7 @@ A beginner's Python study journal using Wes McKinney's *Python for Data Analysis
 
 ## Start here
 
+- [Lesson 07 learning record](journal/lesson-07-dictionaries.en.md)
 - [Lesson 06 learning record](journal/lesson-06-list-filtering.en.md)
 - [Lesson 05 learning record](journal/lesson-05-list-basics.en.md)
 - [Lesson 04 learning record](journal/lesson-04-chapter-2-review.en.md)

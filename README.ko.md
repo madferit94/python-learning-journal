@@ -6,6 +6,7 @@
 
 ## 지금 시작할 곳
 
+- [수업 07 학습 기록](journal/lesson-07-dictionaries.ko.md)
 - [수업 06 학습 기록](journal/lesson-06-list-filtering.ko.md)
 - [수업 05 학습 기록](journal/lesson-05-list-basics.ko.md)
 - [수업 04 학습 기록](journal/lesson-04-chapter-2-review.ko.md)
