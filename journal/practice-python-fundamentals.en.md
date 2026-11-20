@@ -1,5 +1,7 @@
 # Earlier practice — Python fundamentals and rates
 
+> Reference material compiled from older files. Learner authorship is unconfirmed.
+
 [한국어](practice-python-fundamentals.ko.md) · [Code](../lessons/practice/practice-python-fundamentals.en.py) · [Notion](https://app.notion.com/p/41c058a09a5b818b9d40f99f36e03afd)
 
 ## 01. Goal

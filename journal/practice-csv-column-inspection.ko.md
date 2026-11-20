@@ -1,5 +1,7 @@
 # 이전 실습 — 반복문과 CSV 컬럼 확인
 
+> 참고 자료. 이전 파일에서 정리했으며 원본 작성자는 확인되지 않았습니다.
+
 [English](practice-csv-column-inspection.en.md) · [Code](../lessons/practice/practice-csv-column-inspection.py) · [Notion](https://app.notion.com/p/41c058a09a5b81d48a0ef9c4d35ac4e4)
 
 ## 01. 목표

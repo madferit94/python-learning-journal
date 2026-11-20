@@ -1,5 +1,7 @@
 # Earlier practice — Pass completion rates and grades
 
+> Reference material compiled from older files. Learner authorship is unconfirmed.
+
 [한국어](practice-pass-accuracy.ko.md) · [Code](../lessons/practice/practice-pass-accuracy.en.py) · [Notion](https://app.notion.com/p/41c058a09a5b814cbf45ec97705537d0)
 
 ## 01. Goal

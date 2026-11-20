@@ -1,5 +1,7 @@
 # Earlier practice — pandas column selection and goal filtering
 
+> Reference material compiled from older files. Learner authorship is unconfirmed.
+
 [한국어](practice-pandas-row-filtering.ko.md) · [Code](../lessons/practice/practice-pandas-row-filtering.en.py) · [Notion](https://app.notion.com/p/41c058a09a5b8182b671d1d94b9f4bfa)
 
 ## 01. Goal

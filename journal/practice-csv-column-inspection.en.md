@@ -1,5 +1,7 @@
 # Earlier practice — Loops and CSV column inspection
 
+> Reference material compiled from older files. Learner authorship is unconfirmed.
+
 [한국어](practice-csv-column-inspection.ko.md) · [Code](../lessons/practice/practice-csv-column-inspection.en.py) · [Notion](https://app.notion.com/p/41c058a09a5b81d48a0ef9c4d35ac4e4)
 
 ## 01. Goal

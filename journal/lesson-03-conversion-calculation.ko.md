@@ -69,21 +69,7 @@ print(amount)  # 총금액을 출력합니다.
 
 ### 로컬 파일에 들어 있던 후속 실습
 
-가격 "35"와 수량 "6"으로 작성한 아래 코드는 수업 04의 1회차입니다. 확인한 출력은 35, 6, 210입니다.
-
-```python
-price_text = "35"
-quantity_text = "6"
-
-price_number = int(price_text)
-quantity_number = int(quantity_text)
-
-print(price_number)
-print(quantity_number)
-
-amount = price_number * quantity_number
-print(amount)
-```
+로컬 후속 실습의 코드와 출력(35, 6, 210)은 [수업 04의 1회차](lesson-04-chapter-2-review.ko.md)에 모았습니다.
 
 ---
 

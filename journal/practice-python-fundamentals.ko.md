@@ -1,5 +1,7 @@
 # 이전 실습 — Python 기초와 비율 계산
 
+> 참고 자료. 이전 파일에서 정리했으며 원본 작성자는 확인되지 않았습니다.
+
 [English](practice-python-fundamentals.en.md) · [Code](../lessons/practice/practice-python-fundamentals.py) · [Notion](https://app.notion.com/p/41c058a09a5b818b9d40f99f36e03afd)
 
 ## 01. 목표

@@ -69,21 +69,7 @@ The learner wrote the conversion code. The explanation and completion of the var
 
 ### Follow-up practice found in the local file
 
-The snippet below uses price "35" and quantity "6". It matches exercise 1 in Lesson 04 and prints 35, 6 and 210.
-
-```python
-price_text = "35"
-quantity_text = "6"
-
-price_number = int(price_text)
-quantity_number = int(quantity_text)
-
-print(price_number)
-print(quantity_number)
-
-amount = price_number * quantity_number
-print(amount)
-```
+The follow-up code and output (35, 6, 210) are in [Exercise 1 in Lesson 04](lesson-04-chapter-2-review.en.md).
 
 ---
 

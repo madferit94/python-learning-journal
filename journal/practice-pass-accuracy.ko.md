@@ -1,5 +1,7 @@
 # 이전 실습 — 패스 성공률과 등급
 
+> 참고 자료. 이전 파일에서 정리했으며 원본 작성자는 확인되지 않았습니다.
+
 [English](practice-pass-accuracy.en.md) · [Code](../lessons/practice/practice-pass-accuracy.py) · [Notion](https://app.notion.com/p/41c058a09a5b814cbf45ec97705537d0)
 
 ## 01. 목표

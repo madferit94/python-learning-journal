@@ -6,6 +6,7 @@ A beginner's Python study journal using Wes McKinney's *Python for Data Analysis
 
 ## Start here
 
+- [Lesson 08 learning record](journal/lesson-08-order-functions.en.md)
 - [Lesson 07 learning record](journal/lesson-07-dictionaries.en.md)
 - [Lesson 06 learning record](journal/lesson-06-list-filtering.en.md)
 - [Lesson 05 learning record](journal/lesson-05-list-basics.en.md)
@@ -42,7 +43,9 @@ ChatGPT/Codex assisted with explanations, initial lesson scaffolding and organiz
 
 Lessons, journals, workflow notes and templates are available in Korean and English. Each file links to its counterpart. [Korean lesson](lessons/ch02/lesson_01_variables_types.py) · [English lesson](lessons/ch02/lesson_01_variables_types.en.py)
 
-## Earlier practice
+## Earlier reference material
+
+These notes were compiled from older files. Learner authorship of the source material is unconfirmed.
 
 - [Earlier practice — Python fundamentals and rates](journal/practice-python-fundamentals.en.md)
 - [Earlier practice — Pass completion rates and grades](journal/practice-pass-accuracy.en.md)

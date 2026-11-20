@@ -1,5 +1,7 @@
 # 이전 실습 — pandas 열 선택과 득점 필터
 
+> 참고 자료. 이전 파일에서 정리했으며 원본 작성자는 확인되지 않았습니다.
+
 [English](practice-pandas-row-filtering.en.md) · [Code](../lessons/practice/practice-pandas-row-filtering.py) · [Notion](https://app.notion.com/p/41c058a09a5b8182b671d1d94b9f4bfa)
 
 ## 01. 목표

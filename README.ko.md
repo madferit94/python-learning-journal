@@ -6,6 +6,7 @@
 
 ## 지금 시작할 곳
 
+- [수업 08 학습 기록](journal/lesson-08-order-functions.ko.md)
 - [수업 07 학습 기록](journal/lesson-07-dictionaries.ko.md)
 - [수업 06 학습 기록](journal/lesson-06-list-filtering.ko.md)
 - [수업 05 학습 기록](journal/lesson-05-list-basics.ko.md)
@@ -49,7 +50,9 @@ ChatGPT/Codex가 설명, 예제 안내, 오류 피드백과 파일 정리를 도
 
 수업 코드 설명·학습 기록·진행 절차·TIL 양식을 한국어와 영어로 제공합니다. 각 파일 상단에서 언어를 바꿀 수 있습니다. [한국어 코드](lessons/ch02/lesson_01_variables_types.py) · [English code](lessons/ch02/lesson_01_variables_types.en.py)
 
-## 이전 실습
+## 이전 참고 자료
+
+이전 파일을 바탕으로 정리한 참고 자료입니다. 원본을 민섭님이 작성했는지는 확인되지 않았습니다.
 
 - [이전 실습 — Python 기초와 비율 계산](journal/practice-python-fundamentals.ko.md)
 - [이전 실습 — 패스 성공률과 등급](journal/practice-pass-accuracy.ko.md)
