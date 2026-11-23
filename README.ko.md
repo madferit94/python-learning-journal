@@ -6,6 +6,7 @@
 
 ## 지금 시작할 곳
 
+- [수업 10 학습 기록](journal/lesson-10-numpy-arrays.ko.md)
 - [수업 09 학습 기록](journal/lesson-09-reading-files.ko.md)
 - [수업 08 학습 기록](journal/lesson-08-order-functions.ko.md)
 - [수업 07 학습 기록](journal/lesson-07-dictionaries.ko.md)

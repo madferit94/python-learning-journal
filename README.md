@@ -6,6 +6,7 @@ A beginner's Python study journal using Wes McKinney's *Python for Data Analysis
 
 ## Start here
 
+- [Lesson 10 learning record](journal/lesson-10-numpy-arrays.en.md)
 - [Lesson 09 learning record](journal/lesson-09-reading-files.en.md)
 - [Lesson 08 learning record](journal/lesson-08-order-functions.en.md)
 - [Lesson 07 learning record](journal/lesson-07-dictionaries.en.md)
