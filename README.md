@@ -4,7 +4,9 @@
 
 A beginner's Python study journal using Wes McKinney's *Python for Data Analysis* as the main textbook. It documents explanations, attempts, errors, feedback and recall practice.
 
-## Start here
+## Learning records · newest first
+
+Browse completed lessons from newest to oldest.
 
 - [Lesson 10 learning record](journal/lesson-10-numpy-arrays.en.md)
 - [Lesson 09 learning record](journal/lesson-09-reading-files.en.md)
