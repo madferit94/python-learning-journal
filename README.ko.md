@@ -8,6 +8,7 @@
 
 완료한 최신 수업부터 볼 수 있습니다.
 
+- [수업 11 학습 기록](journal/lesson-11-numpy-indexing.ko.md)
 - [수업 10 학습 기록](journal/lesson-10-numpy-arrays.ko.md)
 - [수업 09 학습 기록](journal/lesson-09-reading-files.ko.md)
 - [수업 08 학습 기록](journal/lesson-08-order-functions.ko.md)
